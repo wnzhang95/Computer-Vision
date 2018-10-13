@@ -1,2 +1,2 @@
 # Computer-Vision
-for C
+for Computer Vision course project
